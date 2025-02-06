@@ -2,7 +2,7 @@
   "rewrites": [
     {
       "source": "/(.*)",
-      "destination": "https://www.lo.ki/$1"
+      "destination": "https://a.lo.ki/$1"
  }
   ]
 }
